@@ -1,0 +1,7 @@
+#Sat Sep 23 15:30:20 ICT 2017
+base.0=/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87af28b214d3d6749f691a115cbdf16a0fff8d80
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dda113b2841bf82ebcb61d8af133058c16393186/classes.dex
+base.1=/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dda113b2841bf82ebcb61d8af133058c16393186
+file.0=/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87af28b214d3d6749f691a115cbdf16a0fff8d80/classes.dex

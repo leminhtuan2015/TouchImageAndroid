@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_3cf271a652268c9788e144a2ea988f2789664b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87af28b214d3d6749f691a115cbdf16a0fff8d80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e902a410167bd4d091de1e08e77c19330a1501b">
+        <dex dex="/Users/admin/Downloads/TouchImageView-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dda113b2841bf82ebcb61d8af133058c16393186/classes.dex" />
+    </item>
+
+</items>
